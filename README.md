@@ -6,7 +6,11 @@
 ---
 ## 1. 概觀
 
-"(Tiny) Telecommand"，是 Wise OT 團隊的寫作業、OJT 專案。起因為因應 IoT end-device 的監測、遙測需求，和為了整合、開發 IoT 開源平台的技術基本功做準備，因此建立的寫作業，職前 / 在職訓練用專案。因此為了 "體驗開發" IoT 通訊，亦建立了本專案，與作業用的 Tiny Telecommand Protocol。
+"Tiny Telecommand"，是 Wise OT 團隊的寫作業、OJT 計畫。
+
+起因為因應 IoT end-device 的監測、遙測需求，和為了整合、開發 IoT 開源平台的技術基本功做準備。
+
+因此為了 "體驗開發" IoT 通訊，亦建立了本專案，與作業用的 Tiny Telecommand Protocol。
 
 ---
 ## 2. Protocol 設計
