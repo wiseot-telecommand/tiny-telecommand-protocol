@@ -1,6 +1,6 @@
 # Tiny Telecommand Protocol
 
-* GitHub: https://github.com/organizations/wiseot-telecommand
+* GitHub: https://github.com/wiseot-telecommand
 * Documnet cowork space: https://hackmd.io/O3lCv-mjRCqyXWIiKUmNUw?view
 
 ---
