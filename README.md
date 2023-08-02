@@ -21,16 +21,16 @@
 
 ### Telecommand 定義文件
 
-* v0.0.2 *(2023/07/30)*
+* v0.0.3 *(2023/08/02)*
 * Content type: text/JSON
 
 #### Schema
 
 ```
 {
+    "version": "v0.0.3",
     "device": "{identity name}",
-    "version": "{display name}",
-    "revision": "{machine read name}",
+    "revision": "{command version of device}",
     "description": null|{text},
     "commands":
     {
@@ -64,6 +64,7 @@
     }
 }
 ```
+
 #### Executor object
 
 定義被遙測端，在收到指令後，要如何實作、執行指令。
